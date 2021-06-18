@@ -1,1 +1,1 @@
-Deploying automatically
+Deploying automatically on tomcat
